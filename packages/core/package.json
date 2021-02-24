@@ -18,5 +18,8 @@
   },
   "dependencies": {
     "@vic-cli/utils": "^1.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
