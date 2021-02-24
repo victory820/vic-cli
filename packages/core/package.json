@@ -1,6 +1,6 @@
 {
   "name": "@vic-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "core package",
   "author": "victor <victor.chen@geekbang.org>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"run test core\" "
   },
   "dependencies": {
-    "@vic-cli/utils": "^1.0.1"
+    "@vic-cli/utils": "^1.0.2"
   },
   "publishConfig": {
     "access": "public"
