@@ -1,6 +1,6 @@
 {
   "name": "@vic-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utils package",
   "author": "victor <victor.chen@geekbang.org>",
   "homepage": "",
@@ -15,8 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"run test utils\" "
-  },
-  "dependencies": {
-
   }
 }
